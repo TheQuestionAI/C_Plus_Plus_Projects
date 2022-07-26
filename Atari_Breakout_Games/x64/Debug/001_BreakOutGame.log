@@ -1,0 +1,5 @@
+﻿  001_BreakOutGame.cpp
+D:\Dropbox\OMSCS_Yangzi\CS textbook\Computer Graphics for Video Games\VisualStudioCode\Game\001_BreakOutGame\gl_object.h(50,1): warning C4312: 'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\Dropbox\OMSCS_Yangzi\CS textbook\Computer Graphics for Video Games\VisualStudioCode\Game\001_BreakOutGame\game_level.h(81,39): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Dropbox\OMSCS_Yangzi\CS textbook\Computer Graphics for Video Games\VisualStudioCode\Game\001_BreakOutGame\game_level.h(82,42): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  001_BreakOutGame.vcxproj -> D:\Dropbox\OMSCS_Yangzi\CS textbook\Computer Graphics for Video Games\VisualStudioCode\Game\x64\Debug\001_BreakOutGame.exe
